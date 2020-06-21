@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title = "HUGO.386"
+baseURL = "https://hasegogo365.netlify.app/"
+title = "HASEGOGO365"
 isCJKLanguage = true
 languageCode = "ja-jp"
 DefaultContentLanguage = "en" # Change this to change the site's language
@@ -8,29 +8,27 @@ preserveTaxonomyNames = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "HUGO.386"
+    mainpagetitle = "HASEGOGO365"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "Welcome to the early 90s!"
+    mainpagesubtitle = "Welcome to my home pages"
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "This theme is the Hugo port of the BOOTSTRA.386 theme for a cool retro look on your blog. Check the links below to access the posts."
+    mainpagedesc = "This site was created in 1998"
 
     # The name to display in the copyright section in the footer
-    copyrightname = "JM Fergeau"
+    copyrightname = "Haruki Hasegawa"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    copyrighturl = "http://jmf-portfolio.netlify.com"
+    copyrighturl = "https://hasegogo365.netlify.app/"
 
     # Show the "built on Hugo" disclaimer
     showhugo = true
 
     # Urls for social networks
-    facebook = "https://facebook.com"
-    twitter = "https://twitter.com"
-    linkedin = "https://linkedin.com"
+    twitter = "https://twitter.com/robohase01"
+    instagram ="https://www.instagram.com/hasegogo365/?hl=ja"
     github = "https://github.com"
-    gitlab = "https://gitlab.com"
 
     # Enables or disables the loading animations. false activates them. Default is false.
     loadfastload = false
